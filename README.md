@@ -18,11 +18,15 @@ To discover open ports on devices within the local network using **Nmap**, and o
 - **Local IP Address**: `192.168.37.136`
 - **Subnet Range**: `192.168.37.0/24`
 
+---
+
 ### 🔧 Command Used:
 
 ifconfig 192.168.37.136
 
 nmap -sS 192.168.37.0/24 -oN scan_results.txt
+
+---
 
 ### 🔐 Key Findings
 6 devices responded within the scanned subnet.
@@ -41,16 +45,22 @@ Port 3389 – RDP
 
 Other hosts had mostly filtered or closed ports with no significant exposure.
 
+---
+
 ### 📸 Screenshots
  ![IP](ip.png)
  ![Nmap Output](nmapresult.png)
  ![Wireshark SYN Filter](wireshark.png)
+
+ ---
 
 
 Wireshark SYN Packet Filter
 Filter used:
 
 tcp.flags.syn == 1 && tcp.flags.ack == 0
+
+---
 
 
 ### ✅ Conclusion
