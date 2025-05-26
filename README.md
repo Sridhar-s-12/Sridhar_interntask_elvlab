@@ -47,13 +47,16 @@ Other hosts had mostly filtered or closed ports with no significant exposure.
 
 ---
 
-### 📸 Screenshots
- ![IP](ip.png)
- ![Nmap Output](nmapresult.png)
- ![Wireshark SYN Filter](wireshark.png)
+## 📸 Screenshots
+ ### 📡 IP Configuration  
+![IP](ip.png)
 
+### 🔍 Nmap Scan Output  
+![Nmap Output](nmapresult.png)
+
+### 🧪 Wireshark SYN Filter  
+![Wireshark SYN Filter](wireshark.png)
  ---
-
 
 Wireshark SYN Packet Filter
 Filter used:
