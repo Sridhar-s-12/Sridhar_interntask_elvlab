@@ -7,7 +7,7 @@ To discover open ports on devices within the local network using **Nmap**, and o
 
 ## 🛠️ Tools Used
 
-- **Nmap 7.95** (Installed on Windows)
+- **Nmap 7.95** (Kali Linux)
 - **Wireshark** – For capturing and analyzing network traffic
 - **Kali_linux- Terminal**
 
