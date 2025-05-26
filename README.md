@@ -1,4 +1,4 @@
-# 🔍 Local Network Port Scan – Elevate Lab Internship (Task 1)
+# 🔍 Local Network Port Scan 
 
 ## 🎯 Objective
 To discover open ports on devices within the local network using **Nmap**, and optionally analyze packet captures using **Wireshark**, in order to understand network exposure and identify potential security risks.
