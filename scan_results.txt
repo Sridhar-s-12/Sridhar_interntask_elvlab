@@ -1,0 +1,62 @@
+# Nmap 7.95 scan initiated Mon May 26 16:27:54 2025 as: /usr/lib/nmap/nmap --privileged -sS -oN scan_results.txt 192.168.37.0/24
+Nmap scan report for 192.168.37.1
+Host is up (0.00021s latency).
+All 1000 scanned ports on 192.168.37.1 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 00:50:56:C0:00:08 (VMware)
+
+Nmap scan report for 192.168.37.2
+Host is up (0.00014s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE    SERVICE
+53/tcp filtered domain
+MAC Address: 00:50:56:E6:16:00 (VMware)
+
+Nmap scan report for 192.168.37.128
+Host is up (0.00061s latency).
+Not shown: 976 closed tcp ports (reset)
+PORT      STATE SERVICE
+22/tcp    open  ssh
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+3000/tcp  open  ppp
+3306/tcp  open  mysql
+3389/tcp  open  ms-wbt-server
+4848/tcp  open  appserv-http
+5985/tcp  open  wsman
+7676/tcp  open  imqbrokerd
+8009/tcp  open  ajp13
+8022/tcp  open  oa-system
+8031/tcp  open  unknown
+8080/tcp  open  http-proxy
+8181/tcp  open  intermapper
+8383/tcp  open  m2mservices
+8443/tcp  open  https-alt
+9200/tcp  open  wap-wsp
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+MAC Address: 00:0C:29:EF:26:F8 (VMware)
+
+Nmap scan report for 192.168.37.129
+Host is up (0.00094s latency).
+All 1000 scanned ports on 192.168.37.129 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 00:0C:29:AF:B0:89 (VMware)
+
+Nmap scan report for 192.168.37.254
+Host is up (0.00021s latency).
+All 1000 scanned ports on 192.168.37.254 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 00:50:56:E9:58:20 (VMware)
+
+Nmap scan report for 192.168.37.136
+Host is up (0.0000030s latency).
+All 1000 scanned ports on 192.168.37.136 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+# Nmap done at Mon May 26 16:28:07 2025 -- 256 IP addresses (6 hosts up) scanned in 12.29 seconds
