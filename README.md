@@ -7,6 +7,16 @@
 | **File Name**   | sample-10.eml |
 | **Date Analyzed** | 2025-05-27   |
 
+## Summary of Steps Taken
+
+Downloaded a sample phishing email (.eml file) from an Opensource GitHub repository.
+
+Opened the email using Thunderbird on Kali Linux.
+
+Copied the email header from Thunderbird.
+
+Analyzed the header using MXToolbox Header Analyzer. 
+
 ### 📥 Source of Sample Phishing Email
 
 The sample phishing email used in this task was downloaded from the following open-source repository:
