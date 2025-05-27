@@ -59,7 +59,7 @@ The sample phishing email used in this task was downloaded from the following op
 
 ---
 
-## Phishing Indicators Identified
+## 🎣Phishing Indicators Identified
 
 | Indicator Type             | Description                                                                                          |
 |----------------------------|------------------------------------------------------------------------------------------------------|
@@ -74,7 +74,7 @@ The sample phishing email used in this task was downloaded from the following op
 
 ---
 
-##  Summary 
+## ✅ Summary 
 
 | Field                | Finding/Red Flag                                                                                      |
 |----------------------|-------------------------------------------------------------------------------------------------------|
