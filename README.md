@@ -42,10 +42,10 @@ The sample phishing email used in this task was downloaded from the following op
 ### 📸Screenshots
 
 ## Received Mail
-[Mail](mail.png)
+![Mail](mail.png)
 
 ## Generated report by MXheaderanaalyser
-[Mxheaderanalyser](mxheaderanalyser.png)
+![Mxheaderanalyser](mxheaderanalyser.png)
 
 ---
 
