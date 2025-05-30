@@ -19,7 +19,8 @@ This report provides a comprehensive analysis of the UFW (Uncomplicated Firewall
 ### **Initial System State**
 The project began with UFW not installed on the target Kali Linux system. This required package installation before any firewall configuration could proceed.
 
-### Step-by-step Process
+## ➡️Step-by-step Process
+
 ## Installing UFW in linux using the command:
 `sudo apt update && sudo apt install ufw`
 
