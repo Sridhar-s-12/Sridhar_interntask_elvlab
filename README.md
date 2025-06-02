@@ -9,7 +9,7 @@
 
 ## 📋 Project Overview
 
-This project demonstrates network packet capture and analysis using Wireshark to identify protocols and analyze traffic patterns in a controlled environment.
+This project demonstrates network packet capture and analysis using Wireshark to identify protocols and analyse traffic patterns in a controlled environment.
 
 **Objective:** Capture live network packets and identify basic protocols and traffic types using Wireshark.
 
@@ -22,7 +22,7 @@ This project demonstrates network packet capture and analysis using Wireshark to
 
 ## 📊 Executive Summary
 
-Successfully captured and analyzed **1,222 network packets** over a 2-minute session, identifying multiple protocols including `HTTP`, `DNS`, `TCP`, `ICMP`, `NTP` and `ARP`. The analysis revealed critical security vulnerabilities in unencrypted web traffic and demonstrated effective network monitoring techniques.
+Successfully captured and analyzed network packets, identified multiple protocols including `HTTP`, `DNS`, `TCP`, `ICMP`, `NTP` and `ARP`. The analysis revealed critical security vulnerabilities in unencrypted web traffic and demonstrated effective network monitoring techniques.
 
 ## 🔍 Protocols Identified
 
