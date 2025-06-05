@@ -15,6 +15,10 @@
 - **Tools Used:** Microsoft Edge (steps also apply to Chrome/Firefox).
 
 ---
+## Installed extensions
+![list](list.png)
+## Reviewing Permission of Browser extensions
+![info](info.png)
 
 ## 📝 Steps Taken
 
