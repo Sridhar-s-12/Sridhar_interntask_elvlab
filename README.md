@@ -11,9 +11,9 @@
 
 ## 📑 Table of Contents
 
-- [About This Internship](#about-this-internship)
-- [Internship Highlights](#internship-highlights)
-- [Detailed Task Summaries](#detailed-task-summaries)
+- [👋 About This Internship](#about-this-internship)
+- [🏆 Internship Highlights](#internship-highlights)
+- [🔎 Detailed Task Summaries](#detailed-task-summaries)
   - [Task 1: Local Network Port Scan](#task-1-local-network-port-scan)
   - [Task 2: Phishing Email Analysis](#task-2-phishing-email-analysis)
   - [Task 3: Vulnerability Assessment Project](#task-3-vulnerability-assessment-project)
@@ -23,8 +23,8 @@
   - [Task 7: Browser Extension Security Audit](#task-7-browser-extension-security-audit)
   - [Task 8: VPN Privacy & Security Evaluation](#task-8-vpn-privacy--security-evaluation)
   - [Project: Password Strength Analyzer & Custom Wordlist Generator](#project-password-strength-analyzer--custom-wordlist-generator)
-- [Why Hire Me?](#why-hire-me)
-- [Key Skills Demonstrated](#key-skills-demonstrated)
+- [🌟 Why Hire Me?](#why-hire-me)
+- [📈 Key Skills Demonstrated](#key-skills-demonstrated)
 
 ---
 
@@ -35,6 +35,7 @@
 **Duration:** 1 Month (May–June 2025)
 
 Welcome! This repository documents my hands-on journey as a Cybersecurity Intern at Elevate Labs, where I completed 8 practical tasks and delivered a full-featured security project. My journey included network scanning, phishing analysis, vulnerability assessment, firewall configuration, and more.
+
 ---
 
 ## 🏆 Internship Highlights
@@ -140,7 +141,8 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 [🔗 View Full Project Details](https://github.com/Sridhar-s-12/PasswordTool)
 
 **Objective:** Build a tool to assess password strength and generate custom wordlists for security awareness and penetration testing.  
-**Note:***As someone from a non-coding background, I gained a foundational understanding of Python during this internship. My project was completed with the help of AI tools and self-learning, reflecting my adaptability and enthusiasm for new challenges.*
+*Note: As someone from a non-coding background, I gained a foundational understanding of Python during this internship. My project was completed with the help of AI tools and self-learning, reflecting my adaptability and enthusiasm for new challenges.*
+
 **Features:**  
 - Real-time password analysis and crack time estimation  
 - Custom wordlist generation (leetspeak, case variations, year appendages)  
@@ -173,6 +175,8 @@ Welcome! This repository documents my hands-on journey as a Cybersecurity Intern
 - Technical Documentation & Reporting
 
 ---
+
 <p align="center">
   <em>Thank you for reviewing my internship portfolio!</em>
 </p>
+
