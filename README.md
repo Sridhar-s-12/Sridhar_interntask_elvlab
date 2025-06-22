@@ -11,7 +11,7 @@
 
 ## 📑 Table of Contents
 
-- [About This Internship](#about-this-internship)
+- [About This Internship](#👋-About-This-Internship)
 - [Internship Highlights](#internship-highlights)
 - [Detailed Task Summaries](#detailed-task-summaries)
   - [Task 1: Local Network Port Scan](#task-1-local-network-port-scan)
