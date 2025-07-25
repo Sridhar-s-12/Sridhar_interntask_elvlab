@@ -8,7 +8,7 @@
 </p>
 
 ---
-![Sridhar_elvlab_cert.png]
+![Sridhar_elvlab_cert.png](Sridhar_elvlab_cert.png)
 
 ## 📑 Table of Contents
 
